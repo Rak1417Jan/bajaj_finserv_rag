@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+scikit-learn
+pdfplumber
+python-docx
+nltk
+tiktoken
+requests
+numpy
+sqlite3
