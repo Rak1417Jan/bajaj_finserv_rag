@@ -7,4 +7,3 @@ nltk
 tiktoken
 requests
 numpy
-sqlite3
